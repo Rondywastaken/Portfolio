@@ -16,7 +16,7 @@
   }
 
   onMount(() => {
-    selectorActive = localStorage.getItem("selector-active")!;
+    selectorActive = localStorage.getItem("selector-active") ?? "Education";
   });
 </script>
 

@@ -3,7 +3,7 @@
 </script>
 
 <div id="footer">
-  <p>© 2025 domain.com</p>
+  <p>© 2025 ronitemizsoy.vercel.app</p>
   <div id="about-links">
     <!-- svelte-ignore a11y_consider_explicit_label -->
     <a class="link-footer" target="_blank" href="https://www.linkedin.com/in/roni-temizsoy-663b2b384">
